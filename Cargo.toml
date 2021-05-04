@@ -1,15 +1,14 @@
 [package]
-name = "serialport"
-version = "4.0.2-alpha.0"
+name = "ferrous-serialport"
+version = "4.0.2"
 authors = ["Bryant Mairs <bryant@mai.rs>"]
 categories = ["hardware-support"]
 edition = "2018"
 keywords = ["serial", "hardware", "system", "RS232"]
 license = "MPL-2.0"
 readme = "README.md"
-repository = "https://gitlab.com/susurrus/serialport-rs"
+repository = "https://github.com/ferrous-systems/serialport-rs-hotfix"
 description = "A cross-platform low-level serial port library"
-documentation = "https://docs.rs/serialport/*/serialport"
 
 [badges]
 maintenance = { status = "looking-for-maintainer" }
